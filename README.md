@@ -1,6 +1,5 @@
 # Hi 👋, I’m Mahdi
-- A creative .NET developer 
-- 🌱 I’m currently learning (machine learning) with Python
+- Just a lazy .NET developer 🥱
 ---
 # Tools and Skills : 
 <div style="display: inline-block">
